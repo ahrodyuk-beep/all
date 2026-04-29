@@ -75,7 +75,6 @@ let z2 = 3;
 // Task 18.
 
 
-
 // Task 19.
 let out19 = document.querySelector('.out-19');
 console.log(out19);
