@@ -38,7 +38,7 @@ document.querySelector('.out-8').innerHTML = 'task-8';
 
 // Task 9.
 
-document.querySelector('.out-8').innerHTML = 'world';
+document.getElementsByTagName('span')[0].innerHTML = 'world';
 
 
 // Task 10.
